@@ -1,0 +1,7 @@
+# output file
+*.[oa]
+*.so
+*.class
+*.i
+*.S
+a.out
